@@ -17,7 +17,6 @@ Want Never stop learning about developer tools ❤️.
 
 - 🌱 I’m currently learning React-Native
 - 🤔 I’m looking for help for my future MERN projects
-- 💬 Ask me about anything related to JS, React, Redux, Firebase.(After googling it 😜😌)
 - 🎿 Hobbies other than coding : Cinema , Skate and Play the Guitar🎸..
 - 📫 How to reach me: ttachaves@hotmail.com
 - 🌐[My portfolio](https://teresachaves.netlify.app/)
